@@ -1,6 +1,6 @@
 ```toml
 [[module.imports]]
-path="github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2"
+path="github.com/ronibd0/bdmeter-jslibs-dist/popperjs/v2"
 ```
 
 With that you can import it in your JS like this:
